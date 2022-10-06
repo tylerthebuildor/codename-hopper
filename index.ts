@@ -1,5 +1,5 @@
 if (require.main === module) main();
 
 export default async function main() {
-  console.log("Hello World!");
+  console.log("The console already said something?");
 }
